@@ -87,3 +87,23 @@
         letter-spacing: 1px;
         font-family: 'Sub-Karol', sans-serif;
     }
+
+    img{
+        width: 200px;
+    }
+
+    .profile{
+        display: flex;
+        justify-content: center;   
+    }
+
+    a:hover{
+        color: blueviolet;
+        font-size: 16px;
+    }
+
+    #contenedor{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
